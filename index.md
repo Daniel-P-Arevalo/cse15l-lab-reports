@@ -14,6 +14,8 @@
 ---
 ## Report 1
 
+[Lab Report 1](https://daniel-p-arevalo.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 _Hello World!_
 
 `System.out.print("Hello World!");`
