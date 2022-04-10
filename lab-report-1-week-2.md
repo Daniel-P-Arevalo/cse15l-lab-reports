@@ -35,7 +35,7 @@ Here is a list of commands to try:
 
 Here is an example of some commands run on the terminal:
 
-_**Insert Picture**_
+![Commands](commands.png)
 
 ## Moving Files with scp
 
@@ -57,7 +57,7 @@ On your client input the command:
   
 You will then be prompted to enter the file where you want the key to be saved and to enter a passphrase. If you're using Windows you will need to follow some [extra steps](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
   
-_**Insert Picture**_  
+![Key-Gen](keygen.png)
   
 Now that the keys have been created we need to copy the public key to the server. Start by logging into the remote server and inputing the command:
   
@@ -73,4 +73,4 @@ After doing this you should be able to log into the remote server without having
   
 There are many ways in which you can make doing tasks quicker and easier to perform. At the end of an ssh command you can add a command in quotes to run the command on the remote server and exit afterwards. Using semicolons will let you perform multiple commands on the same line. You can use the up-arrow to automatically input the last command that was run. Here is an example of these techniques in practice:
   
-_**Insert Picture**_
+![Optimized Running](easy_running.png)
