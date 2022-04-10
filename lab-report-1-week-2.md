@@ -41,9 +41,9 @@ Here is an example of some commands run on the terminal:
 
 With remote connecting we are able to copy files to and from the remote computer. To do this we use the command scp on the client, so first log out of the remote server by pressing Ctrl + D or running the command exit. After that input this command:
 
->scp <File Name> cs15lsp22zz@ieng6.ucsd.edu:~/
+>scp **File Name** cs15lsp22zz@ieng6.ucsd.edu:~/
 
-Now if you log back in you and type the command ls you should be able to see the file there.
+Now if you log back in and type the command ls you should be able to see the file there.
   
 ![scp](scp.png)
   
@@ -65,7 +65,7 @@ Now that the keys have been created we need to copy the public key to the server
   
 Now log out of the remote server and on your client input the command:
   
->$ scp <Key Path Name> cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
+>$ scp **Key Path Name** cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
   
 After doing this you should be able to log into the remote server without having to type in your password.
   
