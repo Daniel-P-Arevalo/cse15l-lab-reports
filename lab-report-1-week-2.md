@@ -4,7 +4,7 @@
 
 The first step to remote access is to download an IDE (Integrated Development Environment). The one that we will be using is [VScode](https://code.visualstudio.com/), so simply download it from the website and install it to your computer. When you open up VScode you show get an interface that looks like this:
 
-_**Insert Picture**_
+![VScode](VScode_Install.png)
 
 ## Remotely Connecting
 
@@ -17,7 +17,7 @@ Now in the terminal input the command:
 
 The zz should be replaced with the letters in your course specific account and the $ shouldn't be included. After that is done simply input your password for your course specific account. If it's your first time connecting you may get a message asking if you want to continue connecting, just type yes and press enter. Now your terminal should look something like this:
 
-_**Insert Picture**_
+![Remote Server](Log_in.png)
 
 **Note:** When entering your password it won't show up while typing but it is being entered.
 
@@ -45,7 +45,7 @@ With remote connecting we are able to copy files to and from the remote computer
 
 Now if you log back in you and type the command ls you should be able to see the file there.
   
-_**Insert Picture**_
+![scp](scp.png)
   
 ## Setting an SSH Key
   
