@@ -1,1 +1,1 @@
-# Lab Report 3 - Week 6
+# Lab Report - Week 6
