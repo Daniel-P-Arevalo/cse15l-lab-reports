@@ -19,3 +19,11 @@
 * Markdown Parse
 
 ## Lab Report 3
+
+[Lab Report 3](https://daniel-p-arevalo.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+
+* Streamlining ssh Configuration
+* Setup Github Actions from ieng6
+* Copy Whole Directories with scp -r
+
+## Lab Report 4
