@@ -32,6 +32,6 @@ With the command `scp -r` you're able to copy entire directories over to your us
 ![copy_directory_run](copy_directory_run.png)
 
 You can also optimize the above commands into only two lines with the use of a semicolon as seen below.
-![copy_directory_optimized_1](copy_directory_optimized_1.png)
-![copy_directory_optimized_2](copy_directory_optimized_2.png)
-![copy_directory_optimized_3](copy_directory_optimized_3.png)
+![copy_optimized_1](copy_optimized_1.png)
+![copy_optimized_2](copy_optimized_2.png)
+![copy_optimized_3](copy_optimized_3.png)
