@@ -27,3 +27,8 @@
 * Copy Whole Directories with scp -r
 
 ## Lab Report 4
+
+[Lab Report 4](https://daniel-p-arevalo.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+
+* Clean Coding
+* Debugging
