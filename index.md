@@ -32,3 +32,9 @@
 
 * Clean Coding
 * Debugging
+
+## Lab Report 5
+
+[Lab Report 5](https://daniel-p-arevalo.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+
+* Debugging
